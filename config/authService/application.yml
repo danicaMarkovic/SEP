@@ -25,4 +25,4 @@ eureka:
   instance:
     hostname: localhost
 
-user-email: "nikola@yahoo.com"  
+user-email: "nikola@gmail.com"  
