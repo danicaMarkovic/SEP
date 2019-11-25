@@ -38,4 +38,3 @@ management:
       exposure:
         include: ["health", "info", "refresh"]
  
- user-name: "Marko"
