@@ -36,8 +36,8 @@ eureka:
     nonSecurePortEnabled: false
     securePortEnabled: true
     securePort: ${server.port}
-    leaseRenewalIntervalInSeconds: 10 # intervalSeconds between subsequent heartbeats sent to Eureka server
-    leaseExpirationDurationInSeconds: 20 # time that Eureka server waits since it received last heartbeat before it can evict this instance
+#    leaseRenewalIntervalInSeconds: 10 # intervalSeconds between subsequent heartbeats sent to Eureka server
+#    leaseExpirationDurationInSeconds: 20 # time that Eureka server waits since it received last heartbeat before it can evict this instance
 
 #eureka:
 #  client:
@@ -48,7 +48,7 @@ eureka:
 #    leaseRenewalIntervalInSeconds: 10 # intervalSeconds between subsequent heartbeats sent to Eureka server
 #    leaseExpirationDurationInSeconds: 20 # time that Eureka server waits since it received last heartbeat before it can evict this instance
 
-user-name: "Nikola"
+user-email: "Marko"
     
 management:
   endpoints:
