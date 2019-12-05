@@ -39,7 +39,7 @@ eureka:
     securePortEnabled: true
     securePort: ${server.port}
 
-vrednost: "ZZZZZ"
+vrednost: "Update"
 
 management:
   endpoints:

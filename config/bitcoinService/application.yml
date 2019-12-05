@@ -39,7 +39,7 @@ eureka:
     securePortEnabled: true
     securePort: ${server.port}
 
-proba: "Novi pozdrav"
+proba: "Update"
 
 management:
   endpoints:
