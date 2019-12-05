@@ -39,7 +39,7 @@ eureka:
     securePortEnabled: true
     securePort: ${server.port}
 
-proba: "DD"
+proba: "KKK"
 
 management:
   endpoints:
