@@ -39,7 +39,7 @@ eureka:
     securePortEnabled: true
     securePort: ${server.port}
 
-proba: "KKK"
+vrednost: "Nova vrednost"
 
 management:
   endpoints:
