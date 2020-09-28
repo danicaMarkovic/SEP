@@ -1,2 +1,2 @@
-# SEP
-Configuration files
+# SEP - Payment concentrator
+
